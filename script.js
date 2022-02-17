@@ -20,9 +20,9 @@ var servers = {
     { urls: "stun:stun.services.mozilla.com" },
     { urls: "stun:stun.l.google.com:19302" },
     {
-      urls: "turn:numb.viagenie.ca",
-      credential: "beaver",
-      username: "webrtc.websitebeaver@gmail.com",
+      urls: "numb.viagenie.ca",
+      credential: "ERf8AiLL",
+      username: "kashifghafoor140@gmail.com",
     },
   ],
 };
