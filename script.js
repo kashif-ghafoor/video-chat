@@ -21,8 +21,8 @@ var servers = {
     { urls: "stun:stun.l.google.com:19302" },
     {
       urls: "numb.viagenie.ca",
-      credential: "ERf8AiLL",
-      username: "kashifghafoor140@gmail.com",
+      credential: "kashifsocial140@gmail.com",
+      username: "social140",
     },
   ],
 };
